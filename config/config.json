@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "Game Brebes Explore - Menjelajahi Brebes didunia game!",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "100",
+    "logo_height": "48",
+    "logo_text": "Brebes Explore"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Game petualangan menjelajahi Kota Brebes berdasarkan dunia nyata.",
+    "copyright": "Copyright &#169; 2023 PT. Inovasi Aktif Indonesia. All Rights Reserved"
+  },
+
+  "metadata": {
+    "meta_author": "Rio Susanto",
+    "meta_image": "",
+    "meta_description": "Profil Game Brebes Explore"
+  }
+}
