@@ -1,10 +1,10 @@
 {
   "site": {
-    "title": "Game Brebes Explore - Menjelajahi Brebes didunia game!",
+    "title": "Inovasi Aktif - PT. Inovasi Aktif Indonesia",
     "base_url": "/",
     "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_width": "100",
+    "logo": "/images/inovasiaktif_logo_black.png",
+    "logo_width": "200",
     "logo_height": "48",
     "logo_text": "Brebes Explore"
   },
@@ -24,13 +24,13 @@
   "params": {
     "contact_form_action": "",
     "tag_manager_id": "",
-    "footer_content": "Game petualangan menjelajahi Kota Brebes berdasarkan dunia nyata.",
+    "footer_content": "Berinovasi untuk kemudahan online.",
     "copyright": "Copyright &#169; 2023 PT. Inovasi Aktif Indonesia. All Rights Reserved"
   },
 
   "metadata": {
     "meta_author": "Rio Susanto",
     "meta_image": "",
-    "meta_description": "Profil Game Brebes Explore"
+    "meta_description": "Profil Perusahaan Inovasi Aktif"
   }
 }

@@ -1,12 +1,12 @@
 ---
-title: "Contact Us"
+title: "Kontak Kami"
 layout: "contact"
 draft: false
 info: 
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  title: Kami siap menjawab pertanyaan anda!
+  description: Kirim pertanyaan, konsultasi terkait produk Inovasi Aktif, dll.
   contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "Whatsapp: +62 813 8546 1740"
+    - "Email: [info@inovasiaktif.com](mailto:info@inovasiaktif.com)"
+    - "Address: Desa Tiwulandu, Kec. Banjarharjo, Kab. Brebes"
 ---

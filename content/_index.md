@@ -1,7 +1,7 @@
 ---
 banner:
-  title: Game petualangan menjelajahi Kota Brebes berdasarkan dunia nyata!
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Berinovasi untuk kemudahan online!
+  content: Inovasi Aktif adalah perusahaan yang bergerak dibidang IT. Kami berinovasi membuat sebuah platform yang mempermudah orang-orang dalam melakukan berbagai hal.
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
